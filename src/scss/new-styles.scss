@@ -1,0 +1,9 @@
+// setting variables
+$primary-color: rgb(245, 192, 18);
+$secondary-color: #ffffff;
+
+@import 'base';
+@import 'nav';
+@import 'main';
+
+* {font-size: 1rem};
